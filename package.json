@@ -6,8 +6,7 @@
     "javascript",
     "javascript-library",
     "browser",
-    "console",
-    "console-log"
+    "console"
   ],
   "main": "console-override.min.js",
   "types": "index.d.ts",
