@@ -1,5 +1,5 @@
 {
-  "name": "@euclidean/console-override",
+  "name": "@euclidean-dev/console-override",
   "version": "1.0.0",
   "description": "Override console methods to control the output",
   "keywords": [
