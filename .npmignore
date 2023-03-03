@@ -1,2 +1,6 @@
 src/
 node_modules/
+.lh/
+.*
+tsconfig.json
+webpack.config.js

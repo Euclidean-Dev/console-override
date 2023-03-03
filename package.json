@@ -1,6 +1,6 @@
 {
   "name": "@euclidean-dev/console-override",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Override console methods to control the output",
   "keywords": [
     "javascript",
